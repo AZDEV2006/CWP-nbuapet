@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 def main () :
-      inp = input("What you gotta say? : ").strip()
+      inp = input("What you gotta say? : ")
 
       while True :
-            inp2 = input("I got that! Anything else? : ").strip()
+            inp2 = input("I got that! Anything else? : ")
 
             if (inp2 == "STOP"):
                   break
