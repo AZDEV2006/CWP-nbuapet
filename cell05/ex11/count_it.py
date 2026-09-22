@@ -5,7 +5,6 @@ import re
 
 def main () :
       params = len(sys.argv)
-
       if (params < 2) :
             print(None)
       else :
